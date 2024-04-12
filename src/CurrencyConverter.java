@@ -1,6 +1,6 @@
 package src;
 
-public class CoinConverter {
+public class CurrencyConverter {
     public static void main(String[] args) {
         new Window();
     }
