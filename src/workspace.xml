@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df796222-23ea-483b-878d-87d84dea4819" name="Changes" comment="It's working. I just need to make it prettier and handle bad inputs">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Challenge 2 - ConversorDeMoedas/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Challenge 2 - ConversorDeMoedas/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Challenge 2 - ConversorDeMoedas/src/Window$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Challenge 2 - ConversorDeMoedas/src/Window$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Challenge 2 - ConversorDeMoedas/src/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Challenge 2 - ConversorDeMoedas/src/Window.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Window.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Window.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Window.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Chel0per&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Chel0per/conversorDeMoedas.git&quot;,
+    &quot;accountId&quot;: &quot;60ac2412-1d61-4c13-a604-687b2cb7be56&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2exQd0LCl8Jx44xx9wi16NQvgKN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Application.CoinConverter.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Marcelo/repos/Java kkkkkkkkk/Pacotes/gson-2.10.1.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marcelo\repos\Alura\Challenge 2 - ConversorDeMoedas" />
+      <recent name="C:\Users\Marcelo\repos\Alura\Challenge 2 - ConversorDeMoedas\src" />
+      <recent name="C:\Users\Marcelo\repos\Alura\Challenge 2 - ConversorDeMoedas\.idea" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df796222-23ea-483b-878d-87d84dea4819" name="Changes" comment="" />
+      <created>1712843832861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712843832861</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1712844428481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712844428481</updated>
+    </task>
+    <task id="LOCAL-00002" summary="We're getting somewhere">
+      <option name="closed" value="true" />
+      <created>1712908637024</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712908637024</updated>
+    </task>
+    <task id="LOCAL-00003" summary="It's working. I just need to make it prettier and handle bad inputs">
+      <option name="closed" value="true" />
+      <created>1712912367141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712912367141</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="We're getting somewhere" />
+    <MESSAGE value="It's working. I just need to make it prettier and handle bad inputs" />
+    <option name="LAST_COMMIT_MESSAGE" value="It's working. I just need to make it prettier and handle bad inputs" />
+  </component>
+</project>
